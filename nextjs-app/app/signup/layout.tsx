@@ -5,7 +5,7 @@ export default function RootLayout({
 }>) {
   return (
     <>
-      <p>Heyyy Signup.</p>
+      <p>Heyyy Signup Page.</p>
       {children}
     </>
   );
