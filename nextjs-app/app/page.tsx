@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <div>
-        <p>Hello Next Page!.....! !</p>
+        <p>Hello NextJS Page!.....! !</p>
       </div>
     </>
   );
