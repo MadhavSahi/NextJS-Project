@@ -2,7 +2,7 @@ import SubmitButton from "../components/SubmitButton";
 
 export default function Signin() {
   return (
-    <div className="h-screen flex justify-center flex-col">
+    <div className="h-screen flex flex-row justify-center flex-col">
       <div className="flex justify-center">
         <a
           href="#"
