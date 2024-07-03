@@ -2,14 +2,14 @@ import SubmitButton from "../components/SubmitButton";
 
 export default function Signin() {
   return (
-    <div className="h-screen flex justify-center flex-col">
+    <div className="h-screen flex flex-row justify-center flex-col">
       <div className="flex justify-center">
         <a
           href="#"
           className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 "
         >
           <div>
-            <div className="px-10">
+            <div className="px-10 py-2">
               <div className="text-3xl font-extrabold">Sign In</div>
             </div>
             <div className="pt-2">
