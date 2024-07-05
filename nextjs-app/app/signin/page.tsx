@@ -10,7 +10,7 @@ export default function Signin() {
         >
           <div>
             <div className="px-10 py-2">
-              <div className="text-3xl font-extrabold">Sign In</div>
+              <div className="text-4xl font-extrabold">Sign In</div>
             </div>
             <div className="pt-2">
               <LabelledInput label="Username" placeholder="xyz@gmail.com" />
